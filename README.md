@@ -1,9 +1,9 @@
-![Banner Image](https://raw.githubusercontent.com/WaniAthar/atharwani/main/Athar%20Wani.png)
+
 <h1 align="center">Hi 👋, I'm Harsh Chinmalli</h1>
 
 ![](https://komarev.com/ghpvc/?username=HarshChinmalli)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaniAthar" alt="WaniAthar"/></a></p>
+
 
 
 
