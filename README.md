@@ -1,7 +1,10 @@
+# Hi 👋, I'm Harsh Chinmalli
 
-<h1 align="center">Hi 👋, I'm Harsh Chinmalli</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=HarshChinmalli)
 
-![](https://komarev.com/ghpvc/?username=HarshChinmalli)
+[🌐 Portfolio](https://port-folio-brown-eight.vercel.app/) |
+[💼 LinkedIn](https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/) |
+[📧 Email](mailto:harshchinmalliofficial@gmail.com)
 
 
 
