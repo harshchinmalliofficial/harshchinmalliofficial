@@ -28,6 +28,6 @@ https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/
 
   </p>
                                                  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WaniAthar&theme=Javascript-dark)](https://git.io/streak-stats)
+
                                                  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaniAthar&show_icons=true&theme=tokyonight) 
