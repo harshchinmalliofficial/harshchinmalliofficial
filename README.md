@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=HarshChinmalli)
 
 
-https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/
+
 
 
 
